@@ -12,8 +12,6 @@
   <img align="left" alt="Github" width="22px" src="https://github.com/bzoit/bzoit/blob/main/icons8-github-48.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
 <br />
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/bzoit/bzoit/master/giphy.gif" />
