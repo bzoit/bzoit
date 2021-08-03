@@ -18,7 +18,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 14 years old and I'm a self-taught developer from Philadelphia. I mainly do web development but I also do Discord bot development and I dabble in AI and Kotlin development.
+### I'm 14 years old and I'm a self-taught developer from Philadelphia. I mainly do web development but I also do Discord bot development. I dabble in AI development too.
 
 
 #### - 🚀 JetBrains Fan Boy
