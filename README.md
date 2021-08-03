@@ -1,4 +1,4 @@
-### Hi there, I'm Bzoit!👋.  <img src="https://raw.githubusercontent.com/bzoit/bzoit/master/giphy.svg" >
+### Hi there, I'm Bzoit!👋.  <img src="https://raw.githubusercontent.com/bzoit/bzoit/master/giphy.gif" >
 
 
 <br/>
