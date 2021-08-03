@@ -3,16 +3,13 @@
 
 <br/>
 <a href="https://www.reddit.com/user/Super_Pay_592">
-  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Reddit" width="22px" src="https://github.com/bzoit/bzoit/blob/main/icons8-reddit-48.png" />
 </a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://stackshare.io/bzoit">
+  <img align="left" alt="Stackshare" width="22px" src="https://github.com/bzoit/bzoit/blob/main/icons8-stackshare-50.png" />
 </a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://github.com/bzoit">
+  <img align="left" alt="Github" width="22px" src="https://github.com/bzoit/bzoit/blob/main/icons8-github-48.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
